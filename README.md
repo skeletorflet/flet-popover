@@ -34,4 +34,4 @@ flet build macos -v
 
 ## Documentation
 
-[Link to documentation](https://MyGithubAccount.github.io/flet-popover/)
+[Link to documentation](https://skeletorflet.github.io/flet-popover/)
