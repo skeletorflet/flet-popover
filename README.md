@@ -11,7 +11,7 @@ Link to git repository:
 
 ```
 dependencies = [
-  "flet-popover @ git+https://github.com/MyGithubAccount/flet-popover",
+  "flet-popover @ git+https://github.com/skeletorflet/flet-popover",
   "flet>=0.28.3",
 ]
 ```

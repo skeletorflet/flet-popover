@@ -13,9 +13,9 @@ dependencies = [
 
 [project.urls]
 Homepage = "https://mydomain.dev"
-Documentation = "https://github.com/MyGithubAccount/flet-popover"
-Repository = "https://github.com/MyGithubAccount/flet-popover"
-Issues = "https://github.com/MyGithubAccount/flet-popover/issues"
+Documentation = "https://github.com/skeletorflet/flet-popover"
+Repository = "https://github.com/skeletorflet/flet-popover"
+Issues = "https://github.com/skeletorflet/flet-popover/issues"
 
 [tool.setuptools.package-data]
 "flutter.flet_popover" = ["**/*"]

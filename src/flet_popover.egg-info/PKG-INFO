@@ -4,9 +4,9 @@ Version: 0.1.0
 Summary: FletPopover control for Flet
 Author-email: Flet contributors <you@example.com>
 Project-URL: Homepage, https://mydomain.dev
-Project-URL: Documentation, https://github.com/MyGithubAccount/flet-popover
-Project-URL: Repository, https://github.com/MyGithubAccount/flet-popover
-Project-URL: Issues, https://github.com/MyGithubAccount/flet-popover/issues
+Project-URL: Documentation, https://github.com/skeletorflet/flet-popover
+Project-URL: Repository, https://github.com/skeletorflet/flet-popover
+Project-URL: Issues, https://github.com/skeletorflet/flet-popover/issues
 Requires-Python: >=3.9
 Description-Content-Type: text/markdown
 Requires-Dist: flet>=0.28.3
@@ -24,7 +24,7 @@ Link to git repository:
 
 ```
 dependencies = [
-  "flet-popover @ git+https://github.com/MyGithubAccount/flet-popover",
+  "flet-popover @ git+https://github.com/skeletorflet/flet-popover",
   "flet>=0.28.3",
 ]
 ```
