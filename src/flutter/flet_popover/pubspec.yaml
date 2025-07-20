@@ -1,0 +1,21 @@
+name: flet_popover
+description: Flet FletPopover control
+repository: https://github.com/MyGithubAccount/flet-popover/src/flutter/flet_popover
+version: 0.1.0
+homepage: https://github.com/MyGithubAccount/flet-popover
+
+environment:
+  sdk: '>=3.3.0 <4.0.0'
+  flutter: ">=1.17.0"
+
+dependencies:
+  flet: 0.28.3
+  flutter:
+    sdk: flutter
+  popover: ^0.3.1
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+  flutter_lints: ^3.0.0
+  

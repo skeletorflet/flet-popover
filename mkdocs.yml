@@ -1,0 +1,7 @@
+site_name: FletPopover
+
+theme:
+  name: "material"
+
+plugins:
+  - mkdocstrings
